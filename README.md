@@ -15,6 +15,10 @@ The binary labeling of constellations is an important factor to the achievable i
 - Some of the comments in the last column of the tables are taken from Erik Agrell's database https://codes.se/packings/
 - The binary labelings reported might not be optimal. If you know of a better labeling (or can find a better labeling), please let us know so we update the table.
 
+### Image
+By the NMI (normalized MI) of constellations is 0.8, the required SNR gaps of between Shannon capacity different moduation formats are shown in this figure, which suggests that high dimensional modulation scheme can approach more close to the Shannon limit.
+![image](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/blob/main/image/2DGS_VS_4DGS.png)
+
 ### Research Results
 
 The numbers following the constellation have specific meanings in the tables. For example, in 'QAM2_4',the '2' represents  the dimensionality of the constellation while the '4' refers to  the amount of bits. 
@@ -24,3 +28,6 @@ The numbers following the constellation have specific meanings in the tables. Fo
 [4D constellation&Labeling](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/blob/main/4D%20Labelings%20Table.md) 
 
 The database is managed by Bin Chen (HFUT, China), Alex Alvarado (TUe, The Netherlands) and Zhiwei Liang (HFUT, China), if you are interested in adding your constellation formats in this database, please contact us (bin.chen@hfut.edu.cn, A.Alvarado@tue.nl). 
+
+Please cite the database as  
+Bin Chen, Zhiwei Liang and Alex Alvarado, “Binary Labeling for 2D and 4D constellations”, https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations
